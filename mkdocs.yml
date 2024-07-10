@@ -4,6 +4,7 @@ site_description: GISChat website.
 site_author: GISChat Team
 
 repo_url: https://github.com/GISChat/gischat.github.io
+repo_name: GISChat/gischat.github.io
 
 theme:
   name: material
@@ -22,7 +23,7 @@ theme:
     # - navigation.expand
     # - navigation.footer
     - navigation.indexes
-    - navigation.instant
+    # - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.prune
@@ -63,7 +64,7 @@ theme:
   favicon: assets/GISchat.png
     
   user_color_mode_toggle: true
-  locale: zh
+  locale: en
   analytics: {gtag: 'G-274394082'}
   highlightjs: true
   hljs_languages:
@@ -73,15 +74,32 @@ nav:
   - Home: index.md
   - Introduction: introduction.md
   - Blog:
-    - blog/index.md
+      - Blog Home: blog/index.md
   - About:
     - Release Notes: about/release-notes.md
     - Contributing: about/contributing.md
     - License: about/license.md
 
 plugins:
-  - blog:
-      blog_dir: blog
+  - blogging:
+      # GLOBAL CATEGORY: configs for {{ blog_content }}
+      dirs:
+        - blog
+      template: override/custom-blog.html
+
+      # INDIVIDUAL CATEGORIES: configs for {{ blog_content name }}
+      # categories:
+      #   - name: reviews
+      #     dirs:
+      #       - reviews
+   
+      # GLOBAL CONFIG: configs apply to all categories
+      time_format: '%d/%m/%y %H:%M:%S'
+      meta_time_format: '%Y-%m-%d %H:%M:%S'
+      features:
+        tags:
+          index_page: tags.md
+          insert: top
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
@@ -142,3 +160,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/GISchat
   generator: false
+  
+copyright: Copyright &copy; 2024 GISChat
+ 

@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://gischat.github.io/tags/</loc>
+         <lastmod>2024-07-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://gischat.github.io/about/contributing/</loc>
          <lastmod>2024-07-10</lastmod>
          <changefreq>daily</changefreq>
@@ -26,7 +31,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/</loc>
+         <loc>https://gischat.github.io/blog/blog1/</loc>
+         <lastmod>2024-07-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gischat.github.io/blog/blog2/</loc>
+         <lastmod>2024-07-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gischat.github.io/blog/blog3/</loc>
          <lastmod>2024-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
