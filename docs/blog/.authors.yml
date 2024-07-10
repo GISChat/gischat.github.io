@@ -2,10 +2,9 @@ authors:
   Author1:
     name: Author1
     description: Description
-    avatar: assets/photo1.png
-    url: https://github.com/***
+    avatar: ../assets/photo1.png
+
   Author2:
     name: Author2
     description: Description
-    avatar: assets/photo2.png
-    url: https://github.com/***
+    avatar: ../assets/photo2.png
