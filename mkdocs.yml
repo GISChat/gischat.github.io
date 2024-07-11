@@ -69,37 +69,33 @@ theme:
   highlightjs: true
   hljs_languages:
     - python
+  custom_dir: 'override'
 
 nav:
   - Home: index.md
   - Introduction: introduction.md
   - Blog:
-      - Blog Home: blog/index.md
+      - Overview: blog/index.md
+      # - Archive: blog/archive.md
   - About:
     - Release Notes: about/release-notes.md
     - Contributing: about/contributing.md
     - License: about/license.md
 
 plugins:
-  - blogging:
-      # GLOBAL CATEGORY: configs for {{ blog_content }}
-      dirs:
-        - blog
-      template: override/custom-blog.html
+  - blog:
+      post_date_format: medium
+      post_url_date_format: yyyy/MM/dd
+      post_excerpt: optional
+      post_excerpt_max_authors: 2
+      post_excerpt_max_categories: 2
 
-      # INDIVIDUAL CATEGORIES: configs for {{ blog_content name }}
-      # categories:
-      #   - name: reviews
-      #     dirs:
-      #       - reviews
-   
-      # GLOBAL CONFIG: configs apply to all categories
-      time_format: '%d/%m/%y %H:%M:%S'
-      meta_time_format: '%Y-%m-%d %H:%M:%S'
-      features:
-        tags:
-          index_page: tags.md
-          insert: top
+      archive: true
+      archive_name: Archive
+      categories: true
+
+      blog_toc: true
+      post_readtime_words_per_minute: 300
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
