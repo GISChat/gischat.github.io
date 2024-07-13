@@ -2,72 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gischat.github.io/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/introduction/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/about/contributing/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/about/license/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/about/release-notes/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/blog/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gischat.github.io/blog/2024/05/04/raspberry_pi/</loc>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/blog/2023/07/10/skill/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/blog/2024/07/11/adding-a-blog/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/blog/2023/07/10/friends/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/blog/archive/2024/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/blog/archive/2023/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/blog/category/genera/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gischat.github.io/blog/category/hardware/</loc>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/blog/category/%E7%A7%91%E7%A0%94%E6%8A%80%E5%B7%A7/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gischat.github.io/blog/category/%E5%85%AC%E4%BC%97%E5%8F%B7/</loc>
-         <lastmod>2024-07-12</lastmod>
+         <lastmod>2024-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
