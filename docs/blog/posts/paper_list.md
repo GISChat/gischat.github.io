@@ -1,4 +1,14 @@
-文章排名
+---
+title: 期刊之我见
+date: 2024-08-25
+authors: [gaoming]
+slug: PaperRank
+description: >
+  PaperRank
+categories:
+  - 期刊
+---
+
 正刊 大子刊 小子刊
 第一档：rse lup isprs wrr wr est gcb（顶刊）
 第二档：cities tgrs（次顶刊）
