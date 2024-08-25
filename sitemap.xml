@@ -1,87 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://gischat.github.io/</loc>
+         <loc>https://gischat.xyz/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/introduction/</loc>
+         <loc>https://gischat.xyz/introduction/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/about/contributing/</loc>
+         <loc>https://gischat.xyz/about/contributing/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/about/license/</loc>
+         <loc>https://gischat.xyz/about/license/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/about/release-notes/</loc>
+         <loc>https://gischat.xyz/about/release-notes/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/</loc>
+         <loc>https://gischat.xyz/blog/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/paper_list/</loc>
+         <loc>https://gischat.xyz/blog/2024/01/20/skill/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/2024/01/20/skill/</loc>
+         <loc>https://gischat.xyz/blog/2024/05/04/raspberry_pi/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/2024/05/04/raspberry_pi/</loc>
+         <loc>https://gischat.xyz/blog/2023/07/10/skill/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/2023/07/10/skill/</loc>
+         <loc>https://gischat.xyz/blog/2023/07/10/friends/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/2023/07/10/friends/</loc>
+         <loc>https://gischat.xyz/blog/2024/08/25/PaperRank/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/archive/2024/</loc>
+         <loc>https://gischat.xyz/blog/archive/2024/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/archive/2023/</loc>
+         <loc>https://gischat.xyz/blog/archive/2023/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/category/hardware/</loc>
+         <loc>https://gischat.xyz/blog/category/%E6%9C%9F%E5%88%8A/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/category/%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90/</loc>
+         <loc>https://gischat.xyz/blog/category/hardware/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/category/%E7%A7%91%E7%A0%94%E6%8A%80%E5%B7%A7/</loc>
+         <loc>https://gischat.xyz/blog/category/%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gischat.github.io/blog/category/%E5%85%AC%E4%BC%97%E5%8F%B7/</loc>
+         <loc>https://gischat.xyz/blog/category/%E7%A7%91%E7%A0%94%E6%8A%80%E5%B7%A7/</loc>
+         <lastmod>2024-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gischat.xyz/blog/category/%E5%85%AC%E4%BC%97%E5%8F%B7/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
